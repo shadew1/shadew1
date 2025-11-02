@@ -1,6 +1,5 @@
 # About Me:
-MSc Data Science student at the London School of Economics. Interested in large-scale data systems. 
-
+Data & AI professional specialising in Generative AI, LLM-driven automation, and scalable data pipelines. Experienced in building AI-ready datasets, RAG systems, and prompt-engineered LLM workflows for enterprise clients. Strong foundation in machine learning, cloud engineering, and large-scale data processing from fintech and consulting environments. Passionate about transforming unstructured data into reliable intelligence and delivering argusproduction-grade AI solutions that unlock measurable business value.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tweshaa/) 
